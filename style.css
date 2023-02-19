@@ -1,0 +1,16 @@
+body {
+    background-size: cover;
+    width: 100%;
+}
+#heading{
+font-size: 24px;
+color: aqua;
+}
+.heading{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+#play , #status{
+font-size: 20px;
+margin-bottom: 20px;
+}
